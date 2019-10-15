@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - GGObjc (0.0.1)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - GGObjc (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  GGObjc:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  GGObjc: 86d539cbf0e00f22d6baa91d23e9b55bd0b73e33
+
+PODFILE CHECKSUM: 9424f731002f4781a9d7a0fec9090609e09233cb
+
+COCOAPODS: 1.8.3

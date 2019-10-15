@@ -1,0 +1,16 @@
+//
+//  GGPrefixHeader.pch
+//  GGObjc
+//
+//  Created by 惊小鱼 on 2019/10/15.
+//  Copyright © 2019 gzx543097079. All rights reserved.
+//
+
+#ifndef GGPrefixHeader_pch
+#define GGPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "GGHeader.h"
+
+#endif /* GGPrefixHeader_pch */

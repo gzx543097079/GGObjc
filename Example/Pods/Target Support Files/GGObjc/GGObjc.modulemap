@@ -1,0 +1,6 @@
+framework module GGObjc {
+  umbrella header "GGObjc-umbrella.h"
+
+  export *
+  module * { export * }
+}
